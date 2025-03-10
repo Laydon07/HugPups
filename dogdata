@@ -11,7 +11,7 @@
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "/Assets/Goldenretriver.jpg"
+    "image_url": "/Assets/Mastiff.webp"
   },
   {
     "name": "Max",
